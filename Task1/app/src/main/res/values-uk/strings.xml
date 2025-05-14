@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobileLab5_1</string>
+    <string name="tab1_indicator">Студенти</string>
+    <string name="tab2_indicator">Викладачі</string>
+    <string name="tab3_indicator">Предмети</string>
+    <string name="tab1_content">Це вкладка Студентів</string>
+    <string name="tab2_content">Це вкладка Викладачів</string>
+    <string name="tab3_content">Це вкладка Предметів</string>
+</resources>
